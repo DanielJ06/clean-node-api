@@ -1,0 +1,7 @@
+{
+  "name": "nodeApi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "danieljesus <daniel.j.rodrigues06@gmail.com>",
+  "license": "MIT"
+}
